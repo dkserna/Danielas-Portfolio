@@ -1,0 +1,18 @@
+.body {
+  background-color: #d9d9f2;
+}
+
+h1 {
+  text-align: left;
+  font-family: "Andale Mono", AndaleMono, monospace;
+}
+
+img {
+  float: right;
+  width: 150px
+}
+
+h2 {
+  text-align: left;
+  font-family: "Andale Mono", AndaleMono, monospace;
+}
