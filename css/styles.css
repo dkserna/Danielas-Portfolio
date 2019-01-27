@@ -18,7 +18,12 @@ p {
   font-family: "Andale Mono", AndaleMono, monospace;
 }
 
+.nonprofits {
+  color: red;
+}
+
 .my-class {
+  border: 2px solid black;
   margin: 100px;
 }
 
