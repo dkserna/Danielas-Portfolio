@@ -13,6 +13,10 @@ h2 {
   font-family: "Andale Mono", AndaleMono, monospace;
 }
 
+.list {
+  text-align: left;
+}
+
 p {
   text-align: center;
   font-family: "Andale Mono", AndaleMono, monospace;
@@ -20,6 +24,7 @@ p {
 
 .nonprofits {
   color: red;
+  font-weight: bold;
 }
 
 .my-class {
@@ -27,7 +32,15 @@ p {
   margin: 100px;
 }
 
-ul {
+ol {
   text-align: center;
   font-family: "Andale Mono", AndaleMono, monospace;
+}
+
+.column {
+  border: 2px solid black;
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+  float: left;
 }
